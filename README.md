@@ -8,4 +8,4 @@ Completed with a classmate, this project's goal is to use business intelligence 
 * Converting CSV files into manipulable MS SQL Server Databases. [TRANSFORM]
 * DataWareHouse Creation using BI Solution from MS Virtual Studio. [LOAD]
 * Creation of a Tableau Dashboard allowing interactive visualization of daily regularity of SNCF lines (Broadcasting & Reporting).<br><br>
-**Tools:** ETL, OLAP, MS SQL Server, VS Solution for Business Intelligence
+**Tools:** *ETL, OLAP, MS SQL Server, VS Solution for Business Intelligence.*
