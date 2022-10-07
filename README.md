@@ -1,4 +1,4 @@
-# Daily-regularity-SNCF <br/>
+# Daily regularity in SNCF subway lines<br/>
 ## About this project
 **Category:** Academic
 
